@@ -6,16 +6,16 @@ const SelfIntroduction = () => {
     <div className="flex flex-col items-center my-8 mx-10 md:flex-row justify-around ld:flex-row">
       <div className="px-3">
         <p className="text-white">
-          I'm a web developer with a passion for creating interactive web applications and coaching.
+          I&apos;m a web developer with a passion for creating interactive web applications and coaching.
           With a solid background in developing software by online
           and teaching programming languages,
           I thrive in guiding others toward success. 
           And also with 4 years of coaching experience, 
-          I've developed effective communication skills 
+          I&apos;ve developed effective communication skills 
           and an ability to simplify complex concepts. 
           My passion for problem-solving and continuous learning 
           keeps me engaged with the latest trends in the field.
-          I'm excited to bring my coding skills, coaching experience,
+          I&apos;m excited to bring my coding skills, coaching experience,
           and enthusiasm for learning to collaborative projects.
         </p>  
       </div>
