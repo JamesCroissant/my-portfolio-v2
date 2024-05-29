@@ -7,7 +7,7 @@ const Works = () => {
       title : "my-wordbooks",
       description : "This application is for memorizing your own English words especially you don't understand. You can create your own vocabulary book by writing the word and meaning down in this app.",
       tags : ["React", "Node.js", "Express", "MongoDB"],
-      imageUrl : "/images/image_work1.png" 
+      imageUrl : "/my-portfolio-v2/images/image_work1.png" 
     }
   ]
 

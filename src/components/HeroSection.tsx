@@ -25,7 +25,7 @@ const HeroSection = () => {
       <div className="text-center flex flex-col md:text-left md:flex-row justify-around items-center my-10 mx-10">
         <div className="flex-shrink-0">
           <Image 
-            src="/images/yuhamada.jpg" 
+            src="/my-portfolio-v2/images/yuhamada.jpg" 
             alt="my profile icon"
             className="rounded-full"
             width={200}

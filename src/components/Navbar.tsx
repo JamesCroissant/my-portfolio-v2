@@ -19,7 +19,7 @@ const Navbar = () => {
       <div className="flex flex-wrap items-center justify-between mx-auto py-6 px-12">
         <Link href="/" className="">
           <Image 
-            src="/images/yuhamada.jpg" 
+            src="/my-portfolio-v2/images/yuhamada.jpg" 
             alt="my profile icon"
             className="rounded-full"
             width={60}

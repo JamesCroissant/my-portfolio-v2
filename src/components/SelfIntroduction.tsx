@@ -22,7 +22,7 @@ const SelfIntroduction = () => {
       <div className="text-center my-6">
         <div className="profile-image">
           <Image
-            src="/images/yuhamada.jpg"
+            src="/my-portfolio-v2/images/yuhamada.jpg"
             alt="my profile icon"
             className="rounded-full"
             width={200}
